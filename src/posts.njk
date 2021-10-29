@@ -1,0 +1,16 @@
+---
+pagination:
+  data: graphql
+  size: 1
+  alias: post
+  addAllPagesToCollections: true
+permalink: "/posts/{{ post.title | slug }}/"
+tags: posts
+layout: base.njk
+templateEngineOverride: md, njk
+eleventyComputed:
+  title: "{{ post.title }}"
+  excerpt: "{{ post.excerpt }}"
+---
+
+{{ post.markdownContent | safe }}
