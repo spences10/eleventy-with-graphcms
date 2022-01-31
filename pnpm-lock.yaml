@@ -2,7 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@11ty/eleventy': 1.0.0
-  dotenv: 14.3.2
+  dotenv: 15.0.0
   graphql: 16.3.0
   graphql-request: 4.0.0
   npm-run-all: 4.1.5
@@ -10,7 +10,7 @@ specifiers:
 
 devDependencies:
   '@11ty/eleventy': 1.0.0
-  dotenv: 14.3.2
+  dotenv: 15.0.0
   graphql: 16.3.0
   graphql-request: 4.0.0_graphql@16.3.0
   npm-run-all: 4.1.5
@@ -694,8 +694,8 @@ packages:
     resolution: {integrity: sha1-6oCxBqh1OHdOijpKWv4pPeSJ4Kk=}
     dev: true
 
-  /dotenv/14.3.2:
-    resolution: {integrity: sha512-vwEppIphpFdvaMCaHfCEv9IgwcxMljMw2TnAQBB4VWPvzXQLTb82jwmdOKzlEVUL3gNFT4l4TPKO+Bn+sqcrVQ==}
+  /dotenv/15.0.0:
+    resolution: {integrity: sha512-/l1sXXm79ry34KwwS0y4oVZjB468iw/6u9g1W26dtexKcIJAnVL2pMF+hxQwzZ7LutxOwEgtym9eIxvX33CMKg==}
     engines: {node: '>=12'}
     dev: true
 
