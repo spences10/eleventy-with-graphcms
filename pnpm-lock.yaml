@@ -4,7 +4,7 @@ specifiers:
   '@11ty/eleventy': 1.0.0
   dotenv: 16.0.0
   graphql: 16.3.0
-  graphql-request: 4.0.0
+  graphql-request: 4.1.0
   npm-run-all: 4.1.5
   sass: 1.49.9
 
@@ -12,7 +12,7 @@ devDependencies:
   '@11ty/eleventy': 1.0.0
   dotenv: 16.0.0
   graphql: 16.3.0
-  graphql-request: 4.0.0_graphql@16.3.0
+  graphql-request: 4.1.0_graphql@16.3.0
   npm-run-all: 4.1.5
   sass: 1.49.9
 
@@ -1051,8 +1051,8 @@ packages:
     resolution: {integrity: sha512-NtNxqUcXgpW2iMrfqSfR73Glt39K+BLwWsPs94yR63v45T0Wbej7eRmL5cWfwEgqXnmjQp3zaJTshdRW/qC2ZQ==}
     dev: true
 
-  /graphql-request/4.0.0_graphql@16.3.0:
-    resolution: {integrity: sha512-cdqQLCXlBGkaLdkLYRl4LtkwaZU6TfpE7/tnUQFl3wXfUPWN74Ov+Q61VuIh+AltS789YfGB6whghmCmeXLvTw==}
+  /graphql-request/4.1.0_graphql@16.3.0:
+    resolution: {integrity: sha512-CBFcO6LP7cg+aBMc+x9C1dZEQsKTBZKR2J+HzuB0cR/6aaU4K4/tRXTQu8CDMp5195ZU+DTNKZZOSK1WRbTeAg==}
     peerDependencies:
       graphql: 14 - 16
     dependencies:
